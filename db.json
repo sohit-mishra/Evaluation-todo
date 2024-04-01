@@ -1,0 +1,25 @@
+{
+  "todo": [
+    {
+      "title": "Complete pddd",
+      "description": "Finish the project redddpond submit it by Friday.",
+      "status": "incomplete",
+      "dueDate": "2024-04-15",
+      "id": 1
+    },
+    {
+      "title": "Buy groceraaddd222",
+      "description": "Purchase frui vegetables, and milk from the supermarket.jjj3333",
+      "status": "completed",
+      "dueDate": "2024-04-10",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "title": "Call Mom",
+      "description": "Check up on Mom and see how she's doing.",
+      "status": "incomplete",
+      "dueDate": "2024-04-09"
+    }
+  ]
+}
